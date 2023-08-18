@@ -2570,6 +2570,7 @@ rules:
   - DOMAIN-SUFFIX,onedrive.com,🚀 节点选择
   - DOMAIN-SUFFIX,onedrive.live.com,🚀 节点选择
   - DOMAIN-SUFFIX,photos.live.com,🚀 节点选择
+  - DOMAIN-SUFFIX,v2rayse.com,🚀 节点选择
   - DOMAIN-SUFFIX,skydrive.wns.windows.com,🚀 节点选择
   - DOMAIN-SUFFIX,spoprod-a.akamaihd.net,🚀 节点选择
   - DOMAIN-SUFFIX,storage.live.com,🚀 节点选择
