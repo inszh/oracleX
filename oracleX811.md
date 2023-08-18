@@ -12,7 +12,6 @@ proxy-groups:
     type: select
     proxies:
       - DIRECT
-      - 🎯 全球直连
       - REJECT
   - name: 🔟 Helium 10
     type: select
