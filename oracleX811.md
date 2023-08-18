@@ -1989,6 +1989,7 @@ rules:
   - IP-CIDR6,2001:b28:f23f::/48,📲 电报信息,no-resolve
   - DOMAIN-KEYWORD,opensubtitles,🚀 节点选择
   - DOMAIN-KEYWORD,godaddy,🚀 节点选择
+  - DOMAIN-SUFFIX,fanqiang.network,🚀 节点选择
   - DOMAIN-SUFFIX,imgur.com,🚀 节点选择
   - DOMAIN-SUFFIX,image.tmdb.org,🚀 节点选择
   - DOMAIN-SUFFIX,imdbws.com,🚀 节点选择
