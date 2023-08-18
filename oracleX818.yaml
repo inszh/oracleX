@@ -71,7 +71,7 @@ proxy-groups:
     proxies:
       - DIRECT
       - 🚀 节点选择
-
+      
 script:
 rules:
   - DOMAIN-SUFFIX,ip138.com,⚠️ 亚马逊直连
