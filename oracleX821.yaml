@@ -15,7 +15,7 @@ proxy-groups:
       - REJECT
   - name: 🔟 Helium 10
     type: select
-    proxies:a
+    proxies:
       - 🚀 节点选择
       - DIRECT
   - name: 🚀 节点选择
