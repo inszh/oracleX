@@ -31,16 +31,16 @@ proxy-groups:
     interval: 300
     proxies:
       - Oracle_WS
-      - Oracle_X811
-  - name: ⚙️常规网络
-    type: select
-    proxies:
-      - DIRECT   
-      - 🚀 节点选择   
+      - Oracle_X811   
   - name: 🎵 Spotify
     type: select
     proxies:
       - DIRECT
+      - 🚀 节点选择
+  - name: ⚙️常规网络
+    type: select
+    proxies:
+      - DIRECT   
       - 🚀 节点选择
    
 script:
