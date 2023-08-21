@@ -15,7 +15,7 @@ proxy-groups:
       - REJECT
   - name: 🔟 Helium 10
     type: select
-    proxies:
+    proxies:a
       - 🚀 节点选择
       - DIRECT
   - name: 🚀 节点选择
@@ -32,15 +32,17 @@ proxy-groups:
     proxies:
       - Oracle_WS
       - Oracle_X811
+  - name: ⚙️常规网络
+    type: select
+    proxies:
+      - DIRECT   
+      - 🚀 节点选择   
   - name: 🎵 Spotify
     type: select
     proxies:
       - DIRECT
       - 🚀 节点选择
- - name: ⚙️常规网络
-    type: select
-    proxies:
-      - DIRECT        
+   
 script:
 rules:
   - DOMAIN-SUFFIX,ip138.com,⚠️ 亚马逊直连
@@ -785,4 +787,5 @@ rules:
   - DOMAIN-SUFFIX,icntv.xyz,🚀 节点选择
   - DOMAIN-SUFFIX,flzbcdn.xyz,🚀 节点选择
   - DOMAIN-SUFFIX,ocnttv.com,🚀 节点选择
+  - MATCH, ⚙️常规网络
  
