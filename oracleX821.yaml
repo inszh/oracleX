@@ -48,6 +48,8 @@ rules:
 
   - DOMAIN-KEYWORD,mexc,🚀 节点选择
   - DOMAIN-KEYWORD,ledger,🚀 节点选择
+  - DOMAIN-SUFFIX,spring.com,🚀 节点选择
+
 
   - DOMAIN-SUFFIX,ip138.com,⚠️ 亚马逊直连
   - DOMAIN-SUFFIX,amazon.ca,⚠️ 亚马逊直连
