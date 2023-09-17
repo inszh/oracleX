@@ -47,6 +47,7 @@ script:
 rules:
 
   - DOMAIN-KEYWORD,mexc,🚀 节点选择
+  - DOMAIN-KEYWORD,bffnpo,🚀 节点选择
   - DOMAIN-KEYWORD,ledger,🚀 节点选择
   - DOMAIN-KEYWORD,carbmanager,🚀 节点选择
   - DOMAIN-KEYWORD,coinbase,🚀 节点选择
