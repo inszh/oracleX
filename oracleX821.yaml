@@ -89,6 +89,8 @@ rules:
   - DOMAIN-SUFFIX,amazon.com,⚠️ 亚马逊直连
   - DOMAIN-SUFFIX,images-amazon.com,⚠️ 亚马逊直连
   - DOMAIN-SUFFIX,amazon-adsystem.com,⚠️ 亚马逊直连
+  - DOMAIN-KEYWORD,taobao,⚠️ 亚马逊直连
+
 
   - DOMAIN-KEYWORD,-spotify-com,🎵 Spotify
   - DOMAIN-SUFFIX,spoti.fi,🎵 Spotify
