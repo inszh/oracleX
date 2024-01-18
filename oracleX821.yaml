@@ -59,6 +59,8 @@ rules:
   - DOMAIN-SUFFIX,airasia.com,🚀 节点选择
   - DOMAIN-SUFFIX,pixlr.com,🚀 节点选择
   - DOMAIN-KEYWORD,agoda,🚀 节点选择
+  - DOMAIN-KEYWORD,callannie,🚀 节点选择
+
 
 
   - DOMAIN-SUFFIX,ip138.com,⚠️ 亚马逊直连
