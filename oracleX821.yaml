@@ -63,6 +63,9 @@ rules:
   - DOMAIN-KEYWORD,callher,🚀 节点选择
   - DOMAIN-KEYWORD,theage,🚀 节点选择
   - DOMAIN-KEYWORD,nypost,🚀 节点选择
+  - DOMAIN-KEYWORD,foxnews,🚀 节点选择
+
+
 
 
   - DOMAIN-KEYWORD,-spotify-com,🎵 Spotify
