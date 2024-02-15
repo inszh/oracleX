@@ -65,40 +65,6 @@ rules:
   - DOMAIN-KEYWORD,nypost,🚀 节点选择
 
 
-
-
-
-  - DOMAIN-SUFFIX,ip138.com,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,amazon.ca,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,amazon.co.uk,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,amazon.com,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,amazon.de,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,amazon.es,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,amazon.fr,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,amazon.in,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,amazon.it,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,ssl-images-amazon.cn,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,ssl-images-amazon.com,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,amazonaws.com,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,amazon-adsystem.com,⚠️ 亚马逊直连
-  - DOMAIN,atv-ps.amazon.com,⚠️ 亚马逊直连
-  - DOMAIN,ktpx.amazon.com,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,aboutamazon.com,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,amazon.jobs,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,amazonvideo.com,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,media-amazon.com,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,⚠️ 亚马逊直连
-  - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,⚠️ 亚马逊直连
-  - DOMAIN,s3-ap-southeast-1.amazonaws.com,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,amazon.com,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,images-amazon.com,⚠️ 亚马逊直连
-  - DOMAIN-SUFFIX,amazon-adsystem.com,⚠️ 亚马逊直连
-  - DOMAIN-KEYWORD,taobao,⚠️ 亚马逊直连
-
-
   - DOMAIN-KEYWORD,-spotify-com,🎵 Spotify
   - DOMAIN-SUFFIX,spoti.fi,🎵 Spotify
   - DOMAIN-SUFFIX,spotify.com,🎵 Spotify
@@ -812,5 +778,37 @@ rules:
   - DOMAIN-SUFFIX,icntv.xyz,🚀 节点选择
   - DOMAIN-SUFFIX,flzbcdn.xyz,🚀 节点选择
   - DOMAIN-SUFFIX,ocnttv.com,🚀 节点选择
+
+  - DOMAIN-SUFFIX,ip138.com,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,amazon.ca,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,amazon.co.uk,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,amazon.com,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,amazon.de,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,amazon.es,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,amazon.fr,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,amazon.in,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,amazon.it,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,ssl-images-amazon.cn,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,ssl-images-amazon.com,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,amazonaws.com,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,amazon-adsystem.com,⚠️ 亚马逊直连
+  - DOMAIN,atv-ps.amazon.com,⚠️ 亚马逊直连
+  - DOMAIN,ktpx.amazon.com,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,aboutamazon.com,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,amazon.jobs,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,amazonvideo.com,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,media-amazon.com,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,⚠️ 亚马逊直连
+  - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,⚠️ 亚马逊直连
+  - DOMAIN,s3-ap-southeast-1.amazonaws.com,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,amazon.com,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,images-amazon.com,⚠️ 亚马逊直连
+  - DOMAIN-SUFFIX,amazon-adsystem.com,⚠️ 亚马逊直连
+  - DOMAIN-KEYWORD,taobao,⚠️ 亚马逊直连
+  - DOMAIN-KEYWORD,tmall,⚠️ 亚马逊直连
+
   - MATCH, ⚙️常规网络
  
