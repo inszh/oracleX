@@ -70,10 +70,7 @@ rules:
   - DOMAIN-KEYWORD,newshub,🚀 节点选择
   - DOMAIN-KEYWORD,lookintobitcoin,🚀 节点选择
   - DOMAIN-KEYWORD,news.yahoo,🚀 节点选择
-
-
-
-  - DOMAIN-KEYWORD,newshub,🚀 节点选择
+  - DOMAIN-KEYWORD,reuters.com,🚀 节点选择
 
 
 
