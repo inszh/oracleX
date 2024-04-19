@@ -70,9 +70,10 @@ rules:
   - DOMAIN-KEYWORD,newshub,🚀 节点选择
   - DOMAIN-KEYWORD,lookintobitcoin,🚀 节点选择
   - DOMAIN-KEYWORD,news.yahoo,🚀 节点选择
-  - DOMAIN-KEYWORD,reuters.com,🚀 节点选择
-  - DOMAIN-KEYWORD,theguardian.com,🚀 节点选择
-  - DOMAIN-KEYWORD,tinymediamanager.com,🚀 节点选择
+  - DOMAIN-KEYWORD,reuters,🚀 节点选择
+  - DOMAIN-KEYWORD,theguardian,🚀 节点选择
+  - DOMAIN-KEYWORD,tinymediamanager,🚀 节点选择
+  - DOMAIN-KEYWORD,hifiengine,🚀 节点选择
 
 
 
