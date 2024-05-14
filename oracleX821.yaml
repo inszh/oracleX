@@ -807,6 +807,8 @@ rules:
   - DOMAIN-SUFFIX,amazon-adsystem.com,⚠️ 亚马逊直连
   - DOMAIN-KEYWORD,taobao,⚠️ 亚马逊直连
   - DOMAIN-KEYWORD,tmall,⚠️ 亚马逊直连
+  - DOMAIN-KEYWORD,e-express,⚠️ 亚马逊直连
+
 
   - MATCH, ⚙️常规网络
  
