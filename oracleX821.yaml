@@ -7,7 +7,6 @@ external-controller: 127.0.0.1:9090
 proxies:
   - {name: Oracle_X, server: oraclex.arkfrp.life, port: 443, type: vmess, uuid: 3384c6c8-f37a-453c-a105-841bb6cfe3c8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /3384c6c8-f37a-453c-a105-841bb6cfe3c8, headers: {Host: oraclex.arkfrp.life}}, udp: true}
   - {name: Oracle_X821, server: oraclex811.arkfrp.life, port: 443, type: vmess, uuid: 6a7fbd6e-09b2-47d9-aede-7f8cd0e3f977, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /6a7fbd6e-09b2-47d9-aede-7f8cd0e3f977, headers: {Host: oraclex811.arkfrp.life}}, udp: true}
-  - {name: arkCF, server: ark.streamdew.buzz, port: 443, type: vless, uuid: 419f9e3d-8650-411a-b87f-3e6545e9b4d6, tls: true, servername: ark.streamdew.buzz, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: ark.streamdew.buzz}}, client-fingerprint: randomized}
 proxy-groups:
   - name: ⚠️ 亚马逊直连
     type: select
@@ -26,7 +25,6 @@ proxy-groups:
       - DIRECT
       - Oracle_X
       - Oracle_X821
-      - arkCF
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -34,7 +32,6 @@ proxy-groups:
     proxies:
       - Oracle_X
       - Oracle_X821
-      - arkCF   
   - name: 🎵 Spotify
     type: select
     proxies:
