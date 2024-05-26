@@ -7,7 +7,7 @@ external-controller: 127.0.0.1:9090
 proxies:
   - {name: Oracle_X, server: streamdew.buzz, port: 443, type: vmess, uuid: 6fba9ded-bb19-439c-b0fc-33ab6c03c39b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /6fba9ded-bb19-439c-b0fc-33ab6c03c39b, headers: {Host: streamdew.buzz}}, udp: true}
   - {name: Oracle_B, server: oracleb.streamdew.buzz, port: 443, type: vmess, uuid: 7829e32f-ab76-494a-c46b-dcfc74440ea7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /7829e32f-ab76-494a-c46b-dcfc74440ea7, headers: {Host: oracleb.streamdew.buzz}}, udp: true}
- - {name: chatGPT, server: chatgpt.streamdew.buzz, port: 18100, type: vmess, uuid: 19578aba-20fd-4fe8-8e1b-66d434e71c7d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /12345, headers: {Host: chatgpt.streamdew.buzz}}, udp: true}
+  - {name: chatGPT, server: chatgpt.streamdew.buzz, port: 18100, type: vmess, uuid: 19578aba-20fd-4fe8-8e1b-66d434e71c7d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /12345, headers: {Host: chatgpt.streamdew.buzz}}, udp: true}
 proxy-groups:
   - name: ⚠️ 亚马逊直连
     type: select
