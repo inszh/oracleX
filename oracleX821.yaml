@@ -98,6 +98,9 @@ rules:
 
 
   - DOMAIN-KEYWORD,chatgpt,🤔chatGPT
+  - DOMAIN-SUFFIX,chatgpt.com,🤔chatGPT
+
+
   - DOMAIN-KEYWORD,helium10,🔟 Helium 10
 
   - DOMAIN-KEYWORD,-spotify-com,🎵 Spotify
