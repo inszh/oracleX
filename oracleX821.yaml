@@ -40,7 +40,7 @@ proxy-groups:
     proxies:
       - DIRECT
       - 🚀 节点选择
-  - name: 🤖chatGPT
+  - name: 🤔chatGPT
     type: select
     proxies:
       - DIRECT
@@ -86,7 +86,6 @@ rules:
   - DOMAIN-KEYWORD,javmost,🚀 节点选择
   - DOMAIN-KEYWORD,javday,🚀 节点选择
   - DOMAIN-KEYWORD,ggjav,🚀 节点选择
-  - DOMAIN-KEYWORD,chatgpt,🤖chatGPT
 
 
 
@@ -98,6 +97,8 @@ rules:
 
 
 
+  - DOMAIN-KEYWORD,chatgpt,🤔chatGPT
+  - DOMAIN-KEYWORD,helium10,🔟 Helium 10
 
   - DOMAIN-KEYWORD,-spotify-com,🎵 Spotify
   - DOMAIN-SUFFIX,spoti.fi,🎵 Spotify
@@ -107,7 +108,6 @@ rules:
   - DOMAIN-SUFFIX,spotifycdn.net,🎵 Spotify
   - DOMAIN-KEYWORD,spotify,🎵 Spotify
 
-  - DOMAIN-SUFFIX,helium10.com,🔟 Helium 10
 
   - DOMAIN-SUFFIX,t.me,🚀 节点选择
   - DOMAIN-SUFFIX,tdesktop.com,🚀 节点选择
