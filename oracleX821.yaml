@@ -40,6 +40,11 @@ proxy-groups:
     proxies:
       - DIRECT
       - 🚀 节点选择
+  - name: 🤖chatGPT
+    type: select
+    proxies:
+      - DIRECT
+      - chatGPT
   - name: ⚙️常规网络
     type: select
     proxies:
@@ -81,6 +86,7 @@ rules:
   - DOMAIN-KEYWORD,javmost,🚀 节点选择
   - DOMAIN-KEYWORD,javday,🚀 节点选择
   - DOMAIN-KEYWORD,ggjav,🚀 节点选择
+  - DOMAIN-KEYWORD,chatgpt,🤖chatGPT
 
 
 
