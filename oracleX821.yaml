@@ -142,6 +142,11 @@ rules:
   - DOMAIN-SUFFIX,recaptcha.net,🤔chatGPT 
   - DOMAIN-SUFFIX,msftconnecttest.com,🤔chatGPT 
   - DOMAIN-SUFFIX,poe.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,oaiusercontent.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,oaistatic.com,🤔chatGPT 
+
+
+
           
   - DOMAIN-KEYWORD,openai,🤔chatGPT
   - DOMAIN-KEYWORD,openaiapi,🤔chatGPT
