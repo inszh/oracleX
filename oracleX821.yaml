@@ -99,6 +99,54 @@ rules:
 
   - DOMAIN-KEYWORD,chatgpt,🤔chatGPT
   - DOMAIN-SUFFIX,chatgpt.com,🤔chatGPT
+  - DOMAIN,cdn.auth0.com,🤔chatGPT         
+  - DOMAIN-SUFFIX,anthropic.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,vimeocdn.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,blob.core.windows.net,🤔chatGPT 
+  - DOMAIN-SUFFIX,googleapis.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,openaicom.imgix.net,🤔chatGPT 
+  - DOMAIN-SUFFIX,azurefd.net,🤔chatGPT 
+  - DOMAIN-SUFFIX,azureedge.net,🤔chatGPT 
+  - DOMAIN-SUFFIX,cdn.cloudflare.net,🤔chatGPT 
+  - DOMAIN-SUFFIX,challenges.cloudflare.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,cloudflareinsights.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,akamaized.net,🤔chatGPT 
+  - DOMAIN-SUFFIX,gstatic.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,vimeo.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,f7tk.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,doubleclick.net,🤔chatGPT 
+  - DOMAIN-SUFFIX,google-analytics.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,bard.google.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,googletagmanager.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,ai.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,openai.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,pay.openai.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🤔chatGPT 
+  - DOMAIN-SUFFIX,chat.openai.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,auth0.openai.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,platform.openai.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,intercom.io,🤔chatGPT 
+  - DOMAIN-SUFFIX,statsigapi.net,🤔chatGPT 
+  - DOMAIN-SUFFIX,featuregates.org,🤔chatGPT 
+  - DOMAIN-SUFFIX,intercomcdn.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,pki.goog,🤔chatGPT 
+  - DOMAIN-SUFFIX,identrust.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,edgecompute.app,🤔chatGPT 
+  - DOMAIN-SUFFIX,compute-pipe.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,stripe.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,invoice.stripe.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,stripe.network,🤔chatGPT 
+  - DOMAIN-SUFFIX,gpt3sandbox.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,sentry.io,🤔chatGPT 
+  - DOMAIN-SUFFIX,hcaptcha.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,recaptcha.net,🤔chatGPT 
+  - DOMAIN-SUFFIX,msftconnecttest.com,🤔chatGPT 
+  - DOMAIN-SUFFIX,poe.com,🤔chatGPT 
+          
+  - DOMAIN-KEYWORD,openai,🤔chatGPT
+  - DOMAIN-KEYWORD,openaiapi,🤔chatGPT
+  - DOMAIN-KEYWORD,openaipublic,🤔chatGPT
+
 
 
   - DOMAIN-KEYWORD,helium10,🔟 Helium 10
@@ -110,6 +158,7 @@ rules:
   - DOMAIN-SUFFIX,spotifycdn.com,🎵 Spotify
   - DOMAIN-SUFFIX,spotifycdn.net,🎵 Spotify
   - DOMAIN-KEYWORD,spotify,🎵 Spotify
+
 
 
   - DOMAIN-SUFFIX,t.me,🚀 节点选择
