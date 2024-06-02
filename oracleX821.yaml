@@ -870,6 +870,7 @@ rules:
   - DOMAIN-SUFFIX,amazon.com,⚠️ 亚马逊直连
   - DOMAIN-SUFFIX,images-amazon.com,⚠️ 亚马逊直连
   - DOMAIN-SUFFIX,amazon-adsystem.com,⚠️ 亚马逊直连
+  - DOMAIN-KEYWORD,amazon,⚠️ 亚马逊直连
   - DOMAIN-KEYWORD,taobao,⚠️ 亚马逊直连
   - DOMAIN-KEYWORD,tmall,⚠️ 亚马逊直连
   - DOMAIN-KEYWORD,e-express,⚠️ 亚马逊直连
