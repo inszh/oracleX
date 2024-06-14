@@ -144,10 +144,6 @@ rules:
   - DOMAIN-SUFFIX,poe.com,🤔chatGPT 
   - DOMAIN-SUFFIX,oaiusercontent.com,🤔chatGPT 
   - DOMAIN-SUFFIX,oaistatic.com,🤔chatGPT 
-
-
-
-          
   - DOMAIN-KEYWORD,openai,🤔chatGPT
   - DOMAIN-KEYWORD,openaiapi,🤔chatGPT
   - DOMAIN-KEYWORD,openaipublic,🤔chatGPT
@@ -155,6 +151,7 @@ rules:
 
 
   - DOMAIN-KEYWORD,helium10,🔟 Helium 10
+
 
   - DOMAIN-KEYWORD,-spotify-com,🎵 Spotify
   - DOMAIN-SUFFIX,spoti.fi,🎵 Spotify
@@ -278,6 +275,8 @@ rules:
   - DOMAIN-SUFFIX,hbomax.com,🚀 节点选择
   - DOMAIN-SUFFIX,hbomaxcdn.com,🚀 节点选择
   - DOMAIN-SUFFIX,hbonow.com,🚀 节点选择
+  - DOMAIN-SUFFIX,skykiwi.com,🚀 节点选择
+  - DOMAIN-SUFFIX,pincongs.rock,🚀 节点选择
   - DOMAIN-KEYWORD,.hbogoasia.,🚀 节点选择
   - DOMAIN-KEYWORD,hbogoasia,🚀 节点选择
   - DOMAIN,bcbolthboa-a.akamaihd.net,🚀 节点选择
