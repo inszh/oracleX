@@ -147,6 +147,9 @@ rules:
   - DOMAIN-KEYWORD,openai,🤔chatGPT
   - DOMAIN-KEYWORD,openaiapi,🤔chatGPT
   - DOMAIN-KEYWORD,openaipublic,🤔chatGPT
+  - DOMAIN-SUFFIX,gravatar.com,🤔chatGPT 
+
+
 
 
 
