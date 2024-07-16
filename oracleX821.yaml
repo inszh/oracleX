@@ -87,8 +87,8 @@ rules:
   - DOMAIN-KEYWORD,javmost,🚀 节点选择
   - DOMAIN-KEYWORD,javday,🚀 节点选择
   - DOMAIN-KEYWORD,ggjav,🚀 节点选择
-
-
+  - DOMAIN-SUFFIX,naver.com,🚀 节点选择
+  - DOMAIN-SUFFIX,pstatic.net,🚀 节点选择
 
 
  
